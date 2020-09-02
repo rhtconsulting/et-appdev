@@ -1,0 +1,19 @@
+include::attributes.adoc[]
+include::docs/vars/cnad.adoc[]
+
+= Documentation for {ProjectName} ({ProjectShortName})
+:context: {ProjectNameID}
+
+Welcome to the documentation for the {ProjectName} ({ProjectShortName}).
+
+//include::docs/assembly-tssc.adoc[leveloffset=+1]
+
+//include::docs/assembly-tisc.adoc[leveloffset=+1]
+
+//include::docs/assembly-si.adoc[leveloffset=+1]
+
+[appendix]
+//include::docs/modules/ref-tssc-workflow-examples.adoc[leveloffset=+1]
+
+[appendix]
+//include::docs/common/tssc-terms-definitions.adoc[leveloffset=+1]
