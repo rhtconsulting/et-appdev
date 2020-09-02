@@ -1,4 +1,4 @@
-:ProjectName: Container{nbsp}Native{nbsp}App{nbsp}Dev
+:ProjectName: Cloud{nbsp}Native{nbsp}App{nbsp}Dev
 :ProjectShortName: CNAD
 :ProjectNameID: cnad
 :ProjectVersion: 1.0
