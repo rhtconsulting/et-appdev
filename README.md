@@ -1,2 +1,2 @@
 # cnad-docs
-Doc for NAPS Cloud Native App Dev practice
+Docs for NAPS Cloud Native App Dev practice
